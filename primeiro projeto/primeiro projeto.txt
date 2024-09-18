@@ -1,0 +1,10 @@
+# DESAFIO DE PROJETO
+
+* então neste projeto e para apenas conhecimento, então irei fazer algumas anotações.
+* meu primeiro passo para conhecer o **Git/GitHub**
+* apenas conhecimento doque aprendi neste curso
+* como criar repositórios.
+* Git init
+* Git add
+* Git commit
+* sobre oque um arquivo markdown, entre outros, um curso muito amplo e produtivo.
